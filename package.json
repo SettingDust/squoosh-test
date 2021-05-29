@@ -1,0 +1,14 @@
+{
+  "name": "squoosh-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "ncc build index.js -o dist --source-map --license licenses.txt"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@squoosh/lib": "^0.2.3"
+  }
+}
