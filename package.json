@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@squoosh/lib": "^0.2.3"
+    "@squoosh/lib": "^0.3.1"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.28.6"
